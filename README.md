@@ -15,15 +15,15 @@
   #
 
 ## Data
-### 1.  Raw Single Cell RNA-Seq Files of Mesenchymal Stem Cells (MSC)
-#####  Folder index : HN00160068 (Macrogen)
-  #
+### 1. Single Cell RNA-Seq Files of Mesenchymal Stem Cells (MSC)
+#### Raw files (Folder index : HN00160068) :
+  ###
 ```
 Fastq files : /DATA/single_cell/HN00160068_10X_RawData_Outs/*
 Run_count_matrix : /DATA/single_cell/HN00160068_10X_CellRanger_Outs/run_count_*/
 ```
-#####  Seurat images :
-  #
+####  Seurat images :
+  ###
 ```
 Integrated SeuratObject : /DATA/single_cell/HN00160068_10X_Rimages_Outs/seurat_combined_normal.image.h5seurat
 ```
