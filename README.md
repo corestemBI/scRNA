@@ -4,15 +4,7 @@
 # Single Cell RNA-Seq analysis
 ##### This Repository Included Scripts Written For Single Cell RNA-Seq Analysis Pipeline 
 
-  #
-  #
-  #
-  #
-  #
-  #
-  #
-  #
-  #
+![MSC_ALL_06_tsne_origincluster](https://user-images.githubusercontent.com/98365385/150895815-61ca77d2-2d8d-4109-8430-4e0f8a7554f3.jpeg)
 
 ## Data
 ### 1. Single Cell RNA-Seq Files of Mesenchymal Stem Cells (MSC)
