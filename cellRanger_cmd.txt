@@ -1,0 +1,11 @@
+# In LINUX CMD line
+# Cellranger 6.1.2
+# used with BM-MSC / UCB-MSC / WJ-MSC / CPJ-MSC 
+
+CMD :  
+
+/DATA/program/cellranger-6.1.2/cellranger count \
+--id=run_count_BM-MSC \
+--fastqs=/DATA/Single_cell/HN00160068_10X_RawData_Outs/BM-MSC/HHFKLCCX2/ \
+--transcriptome=/DATA/program/refdata-gex-GRCh38-2020-A/
+
