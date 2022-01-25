@@ -39,4 +39,4 @@ vignettes/*.pdf
 .Renviron
 
 # Excel Results
-.xlsx
+*.xlsx
