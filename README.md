@@ -4,7 +4,7 @@
 # Single Cell RNA-Seq analysis
 ##### This Repository Included Scripts Written For Single Cell RNA-Seq Analysis Pipeline 
 
-![MSC_ALL_06_tsne_origincluster](https://user-images.githubusercontent.com/98365385/150895815-61ca77d2-2d8d-4109-8430-4e0f8a7554f3.jpeg)
+<p align="center"> <img src = "https://user-images.githubusercontent.com/98365385/150898002-10299156-286b-4511-9775-28f45f96f4e7.png" width="100%" height="100%"> </p>
 
 ## Data
 ### 1. Single Cell RNA-Seq Files of Mesenchymal Stem Cells (MSC)
@@ -21,7 +21,7 @@ Integrated SeuratObject : /DATA/single_cell/HN00160068_10X_Rimages_Outs/seurat_c
 ```
 
 
-## Script lists
+## Scripts
 
 - Cell Ranger commands
 - QC and Clustering scripts with Seurat R package
