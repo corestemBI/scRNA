@@ -4,7 +4,7 @@
 
 #### 1. Library Loading ####
 packs = c("Seurat", "SeuratDisk", "dplyr", "patchwork", "ggpubr", "DoubletFinder", "xlsx", "ggstatsplot",
-          "clusterProfiler", "org.Hs.eg.db", "AnnotationHub", "MAST", "ggsci", "RColorBrewer")
+          "clusterProfiler", "org.Hs.eg.db", "AnnotationHub", "MAST", "ggsci", "RColorBrewer", "SeuratWrappers")
 lapply(packs, require, character.only = TRUE)
 rm(packs)
 

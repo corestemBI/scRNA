@@ -5,7 +5,7 @@
 #Before Running scripts 
 options(java.parameters = c("-XX:+UseConcMarkSweepGC", "-Xmx8192m"))
 memory.limit(size = 100000000000)
-source("./functions.R")
+source("./scripts/R/functions.R")
 
 #### 1. Data loading ####
 
